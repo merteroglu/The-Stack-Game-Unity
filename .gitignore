@@ -1,0 +1,7 @@
+StackGame/Library/*
+StackGame/Temp/*
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.unityproj
